@@ -19,3 +19,8 @@ public class ProyectoSincroniza {
     }
     
 }
+
+class Clase_SergioMartin{
+    
+    
+}
